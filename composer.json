@@ -1,14 +1,14 @@
 {
-    "name": "flc/alidayu",
-    "description": "叶子坑 - 阿里大于API",
-    "keywords": ["alidayu", "flc"],
+    "name": "zangsilu/alidayu",
+    "description": "简简单单 - 阿里大于API",
+    "keywords": ["alidayu", "zangsilu"],
     "license": "MIT",
     "require": {
         "php": ">=5.4.0"
     },
     "autoload": {
         "psr-4": {
-            "Flc\\Alidayu\\": "src/Alidayu/"
+            "Zangsilu\\Alidayu\\": "src/Alidayu/"
         }
     }
 }
